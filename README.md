@@ -1,7 +1,7 @@
 # Merhaba, Hoş Geldiniz! 👋
 Ben Ömer Faruk BATUR, yazılım geliştiricisiyim.
 ## Kodladıklarım
-C#, Java, Flutter, Kotlin, Python
+C#, Java, Flutter, Kotlin, Python, AngularJs, ReactJs
 ## Veri Tabanları
 Microsoft SQL Server, PostgreSQL
 
